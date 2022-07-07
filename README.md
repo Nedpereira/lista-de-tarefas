@@ -6,5 +6,6 @@
 
 Exercício feito no curso:<b> Javascript e TypeScript 2022 | Udemy</b>
 
-![image](https://user-images.githubusercontent.com/86324962/177855639-ef37b51c-0d1d-4af0-a3b0-4c32cd22537a.png)
+![image](https://user-images.githubusercontent.com/86324962/177855807-183a0615-f0d1-44c1-b1bd-cb3f072b0dfd.png)
+
 
